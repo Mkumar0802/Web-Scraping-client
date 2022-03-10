@@ -14,8 +14,8 @@ const Navbar = () => {
                     </p >
 </div>
 
-                    <div className="md:justify">
-                        <ul className="flex gap-5 text-white  ">
+                    <div className="md:justify  ">
+                        <ul className="flex gap-5 text-white ">
                             <li className=" rounded-lg px-4 py-2  bg-slate-600 hover:bg-slate-800">
                                 <Link to="/"> Home</Link>
                             </li>
